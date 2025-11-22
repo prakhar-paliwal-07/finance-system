@@ -1,0 +1,26 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "description": "gaming",
+            "amount": 10000.0,
+            "category": "entertainment",
+            "date": "2025-09-23"
+        },
+        {
+            "id": 2,
+            "description": "party",
+            "amount": 1000.0,
+            "category": "entertainment",
+            "date": "2006-26-09"
+        }
+    ],
+    "incomes": [
+        {
+            "id": 1,
+            "source": "part time",
+            "amount": 10000.0,
+            "date": "2005-09-22"
+        }
+    ]
+}
